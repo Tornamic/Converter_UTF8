@@ -1,0 +1,8 @@
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\bin\Debug\PawnEncodingConverter.exe.config
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\bin\Debug\PawnEncodingConverter.exe
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\bin\Debug\PawnEncodingConverter.pdb
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\obj\Debug\PawnEncodingConverter.csproj.AssemblyReference.cache
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\obj\Debug\PawnEncodingConverter.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\obj\Debug\PawnEncodingConverter.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\obj\Debug\PawnEncodingConverter.exe
+D:\Программирование\C#\PawnEncodingConverter\PawnEncodingConverter\obj\Debug\PawnEncodingConverter.pdb
